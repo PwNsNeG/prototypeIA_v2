@@ -1,0 +1,6 @@
+pyarrow
+numpy
+tqdm
+sentencepiece
+tokenizers
+
