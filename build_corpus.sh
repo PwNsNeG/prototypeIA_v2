@@ -8,7 +8,7 @@ python build_corpus.py \
   --data-dir ./dataset/French-PD-Books \
   --glob "gallica_mono_*.parquet" \
   --out-dir ./data/prepared/corpus_v1 \
-  --target-chars 500000000 \
+  --target-chars 5000000000 \
   --min-chars 2500 \
   --min-alpha-ratio 0.58 \
   --max-weird-ratio 0.06 \
